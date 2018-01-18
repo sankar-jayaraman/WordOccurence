@@ -1,0 +1,6 @@
+C:\Users\Sankar\Documents\Visual Studio 2015\Projects\SimCorp\WordOccurence\WordOccurence\bin\Debug\WordOccurence.exe.config
+C:\Users\Sankar\Documents\Visual Studio 2015\Projects\SimCorp\WordOccurence\WordOccurence\bin\Debug\WordOccurence.exe
+C:\Users\Sankar\Documents\Visual Studio 2015\Projects\SimCorp\WordOccurence\WordOccurence\bin\Debug\WordOccurence.pdb
+C:\Users\Sankar\Documents\Visual Studio 2015\Projects\SimCorp\WordOccurence\WordOccurence\obj\Debug\WordOccurence.exe
+C:\Users\Sankar\Documents\Visual Studio 2015\Projects\SimCorp\WordOccurence\WordOccurence\obj\Debug\WordOccurence.pdb
+C:\Users\Sankar\Documents\Visual Studio 2015\Projects\SimCorp\WordOccurence\WordOccurence\obj\Debug\WordOccurence.csprojResolveAssemblyReference.cache
