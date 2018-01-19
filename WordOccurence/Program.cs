@@ -37,7 +37,7 @@ namespace WordOccurence
                 {
                     Console.WriteLine("The process failed: {0}", e.ToString());
                 }
-                Console.Read();
+                
             }
             else
             {

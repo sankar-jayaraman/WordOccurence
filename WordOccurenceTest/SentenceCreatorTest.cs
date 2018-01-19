@@ -29,5 +29,31 @@ namespace WordOccurenceTest
             Assert.AreEqual(expected, creator.Create(lines));
 
         }
+
+        [TestMethod]
+        public void Test_When_EmptyLinesArePassed_ReturnsEmptyString()
+        {
+            var expected = "";
+
+            string[] lines = new string[] {""};
+
+            var creator = new SentenceCreator();
+
+            Assert.AreEqual(expected, creator.Create(lines));
+
+        }
+
+        [TestMethod]
+        public void Test_When_ZeroLengthArrayIsPassed_ReturnsEmptyString()
+        {
+            var expected = "";
+
+            string[] lines = new string[0] ;
+
+            var creator = new SentenceCreator();
+
+            Assert.AreEqual(expected, creator.Create(lines));
+
+        }
     }
 }

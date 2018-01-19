@@ -10,6 +10,8 @@ namespace WordOccurence
     {
         public string Create(string[] lines)
         {
+            if (lines.Length == 0)
+                return "";
             var sb = new StringBuilder();
 
             foreach (string line in lines)

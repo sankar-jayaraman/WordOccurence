@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FileExtensions.cs" />
     <Compile Include="ISentenceCreator.cs" />
     <Compile Include="SentenceCreator.cs" />
     <Compile Include="WordOccurenceCounter.cs" />
