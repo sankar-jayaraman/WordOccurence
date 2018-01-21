@@ -13,7 +13,7 @@ namespace WordOccurence
         {
             var result = new Dictionary<string, int>(StringComparer.InvariantCultureIgnoreCase);
 
-            if (sentence == null)
+            if (string.IsNullOrEmpty(sentence))
                 return result;
 
             var words = sentence.Split(' ');

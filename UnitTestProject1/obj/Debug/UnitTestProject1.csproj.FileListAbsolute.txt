@@ -1,0 +1,6 @@
+C:\Users\Sankar\Documents\Visual Studio 2015\Projects\SimCorp\WordOccurence\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Sankar\Documents\Visual Studio 2015\Projects\SimCorp\WordOccurence\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Sankar\Documents\Visual Studio 2015\Projects\SimCorp\WordOccurence\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sankar\Documents\Visual Studio 2015\Projects\SimCorp\WordOccurence\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Sankar\Documents\Visual Studio 2015\Projects\SimCorp\WordOccurence\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Sankar\Documents\Visual Studio 2015\Projects\SimCorp\WordOccurence\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
